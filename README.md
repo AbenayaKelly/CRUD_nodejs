@@ -36,5 +36,5 @@ CREATE TABLE items (
 ### 4. Executar o Servidor
 Agora, você pode iniciar o servidor em modo de desenvolvimento usando o nodemon com o comando:
 ```bash
-nodemon run dev
+npm run dev
 ```
